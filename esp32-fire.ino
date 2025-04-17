@@ -7,8 +7,8 @@
 #define WIFI_PASSWORD ""
 
 // Firebase
-#define DATABASE_URL "https://esp32-dht-805af-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define API_KEY "AIzaSyBgwbuDz11vzbZMUszikrNJ5jWwhGgjoaQ"
+#define DATABASE_URL "YourFirebase_URL"
+#define API_KEY "YOUR_API_KEY_FIREBASE"
 //AIzaSyBgwbuDz11vzbZMUszikrNJ5jWwhGgjoaQ
 // k086y7Ot5ndZVzJSU1o4S8q4UzJ8n2tNVXehFSTa
 
