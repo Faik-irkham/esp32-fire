@@ -3,8 +3,8 @@
 #include "DHT.h"
 
 // WiFi
-#define WIFI_SSID "Lab-IoT"
-#define WIFI_PASSWORD ""
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "PASSWORD"
 
 // Firebase
 #define DATABASE_URL "YourFirebase_URL"
